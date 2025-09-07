@@ -11,6 +11,13 @@
 *.sln.docstates
 *.env
 
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.db
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
